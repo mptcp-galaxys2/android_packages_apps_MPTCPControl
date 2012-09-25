@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">MPTCP Control</string>
+    <string name="general">General Preference</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_mptcpcontrol">Multipath TCP Control</string>
+    <string name="mptcp_enable">Multipath TCP</string>
+	<string name="interfaces">Interfaces configuration</string>
+	<string name="wifi">Wi-Fi</string>
+	<string name="data">Data Network</string>
+	<string name="backup">Use as backup</string>
+	<string name="handover">Only use this interface</string>
+	
+</resources>
